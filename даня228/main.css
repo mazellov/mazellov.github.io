@@ -1,0 +1,43 @@
+body{
+	background-color: #48d4aa;
+	margin: 20px;
+	box-shadow: 0 0 30px 10px rgba(212, 72, 81,1);
+	font-family: 'Comforter Brush', cursive;
+font-family: 'Oswald', sans-serif;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Ruda', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&family=Oswald:wght@500&family=Press+Start+2P&family=Ruda:wght@500&display=swap');
+p{
+	color: #d4b548;
+	font-size: 30px;
+	margin: 30px;
+}
+html{
+	background-color: gray;
+}
+a{
+color: #d4b548;;
+font-size: 40px;
+margin: 10px;
+text-decoration: none;
+}
+img{
+max-width: 100%;
+height: auto;
+display: block;
+width: 30%;
+margin: auto;
+height: 500px;
+width: 700px;
+border-radius: 50px;
+}
+a:hover{
+	color: purple;
+	font-size: 40px;
+	text-decoration: underline;
+}
+h1:hover{
+	color: blue;
+	text-decoration: underline;
+}
